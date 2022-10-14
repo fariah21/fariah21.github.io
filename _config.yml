@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Fariah Jannat"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Toggenburg-Goat-2048x1367.jpeg"
+  bio    : "Ami onek boro ekta chagol."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -74,6 +74,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "<i class="fa-brands fa-linkedin"></i>"
+      url: "https://www.linkedin.com/in/raian-rith"
 
 footer:
   links:
